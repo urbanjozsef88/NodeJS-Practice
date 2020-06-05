@@ -11,8 +11,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ServerPrectice.js",
-    "server-start": "node ServerPrectice.js"
+    "start": "nodemon ServerPractice.js",
+    "server-start": "node ServerPractice.js"
   },
   "author": "",
   "license": "ISC"
